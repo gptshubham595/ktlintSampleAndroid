@@ -1,0 +1,4 @@
+[*.{kts,kt}]
+ktlint_code_style = "android"
+ktlint_standard_import-ordering = disabled
+ktlint_standard_no-wildcard-imports = disabled
